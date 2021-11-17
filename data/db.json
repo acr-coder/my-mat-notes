@@ -1,0 +1,32 @@
+{
+  "notes": [
+    {
+      "title": "500",
+      "details": "hgfhfghfghfghfgh",
+      "category": "ali-gelir",
+      "tarih": "2021-11-05",
+      "id": 1
+    },
+    {
+      "title": "300",
+      "details": "fhfdhfh",
+      "category": "murat-gelir",
+      "tarih": "2021-11-20",
+      "id": 2
+    },
+    {
+      "title": "20",
+      "details": "fghfghfg",
+      "category": "ali-gider",
+      "tarih": "2021-11-13",
+      "id": 3
+    },
+    {
+      "title": "45",
+      "details": "fhfghgfhfg",
+      "category": "murat-gider",
+      "tarih": "2021-11-06",
+      "id": 4
+    }
+  ]
+}
