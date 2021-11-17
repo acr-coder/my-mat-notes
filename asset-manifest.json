@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-mat-notes.git/static/css/main.af776421.chunk.css",
+    "main.js": "/my-mat-notes.git/static/js/main.2ca7e0cb.chunk.js",
+    "main.js.map": "/my-mat-notes.git/static/js/main.2ca7e0cb.chunk.js.map",
+    "runtime-main.js": "/my-mat-notes.git/static/js/runtime-main.a63b12e5.js",
+    "runtime-main.js.map": "/my-mat-notes.git/static/js/runtime-main.a63b12e5.js.map",
+    "static/js/2.0983325e.chunk.js": "/my-mat-notes.git/static/js/2.0983325e.chunk.js",
+    "static/js/2.0983325e.chunk.js.map": "/my-mat-notes.git/static/js/2.0983325e.chunk.js.map",
+    "index.html": "/my-mat-notes.git/index.html",
+    "static/css/main.af776421.chunk.css.map": "/my-mat-notes.git/static/css/main.af776421.chunk.css.map",
+    "static/js/2.0983325e.chunk.js.LICENSE.txt": "/my-mat-notes.git/static/js/2.0983325e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a63b12e5.js",
+    "static/js/2.0983325e.chunk.js",
+    "static/css/main.af776421.chunk.css",
+    "static/js/main.2ca7e0cb.chunk.js"
+  ]
+}
